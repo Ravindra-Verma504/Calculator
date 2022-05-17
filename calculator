@@ -1,2 +1,27 @@
-a=(3*2//5**3)
-print(a)
+#start
+#print("calculator")
+#a=int(input("enter number"))
+#print("1.+")
+#print("2.-")
+#print("3.*")
+#print("4./")
+#print("5.**")
+#b=int(input("enter number"))
+
+#input choice
+
+#ch=int(input("enter choice(1-6)"))
+
+#if ch==1:
+#    print(a+b)
+#elif ch==2:
+#    print(a-b)
+#elif ch==3:
+#    print(a*b)
+#elif ch==4:
+#    print(a/b)
+#elif ch==5:
+#    print(a**b)
+#else:
+#    print(invaild)
+#####
